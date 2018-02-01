@@ -7,3 +7,4 @@ Add yourself to the list below:
 | --- | --- | --- | --- |
 | Lisa Leese | laleese | mlleese | Flour + Water |
 | Fil Alano | filalano | falano | House of Prime Rib | 
+| Arturo Galvan-Alarcon | Lelionbear | agalvanalarcon | Boudin Bakery & Cafe |
