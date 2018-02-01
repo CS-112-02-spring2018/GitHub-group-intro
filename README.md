@@ -7,3 +7,5 @@ Add yourself to the list below:
 | --- | --- | --- | --- |
 | Lisa Leese | laleese | mlleese | Flour + Water |
 | Fil Alano | filalano | falano | House of Prime Rib | 
+| Isabel Ringo | isabelroseringo | irringo | 1428 Haight |
+
