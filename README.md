@@ -12,7 +12,9 @@ Add yourself to the list below:
 | Arturo Galvan-Alarcon | Lelionbear | agalvanalarcon | Boudin Bakery & Cafe |
 | Cyrus Robins | cyrusrobins | crobins| La Taqueria
 | Yen Dah Hsiang | dustin0116 | yhsiang | Banana Island |
-| Lin Xu | LinXu0317 | lxu33 | AHHHHHHH |
-| Orshi Kozek | OrshiKozek | okozek | Cafe Europa |
+| Lin Xu | LinXu0317 | lxu33 | McDonald's |
 | Malik Owens | Bioshii | mowens5 | Papa John's |
-| Anh Thao Nguyen | avnguyen6 | avnguyen6 | Spartan Taco | 
+| Orshi Kozek | OrshiKozek | okozek | Cafe Europa |
+| Aditya Dixit | adityanz | adixit3 | MAC'D |
+| Anh Thao Nguyen | avnguyen6 | avnguyen6 | Spartan Taco |
+
