@@ -16,4 +16,5 @@ Add yourself to the list below:
 | Malik Owens | Bioshii | mowens5 | Papa John's |
 | Orshi Kozek | OrshiKozek | okozek | Cafe Europa |
 | Aditya Dixit | adityanz | adixit3 | MAC'D |
+| Christopher Chu | ChrisChu22 | cachu2 | New D & A Cafe |
 
