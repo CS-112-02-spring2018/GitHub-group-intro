@@ -15,3 +15,4 @@ Add yourself to the list below:
 | Lin Xu | LinXu0317 | lxu33 | AHHHHHHH |
 | Orshi Kozek | OrshiKozek | okozek | Cafe Europa |
 | Malik Owens | Bioshii | mowens5 | Papa John's |
+| Jordan Davis | jordand815 | jedavis6 | fifty | 
