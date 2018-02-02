@@ -21,4 +21,6 @@ Add yourself to the list below:
 | Anh Thao Nguyen | avnguyen6 | avnguyen6 | Spartan Taco |
 | Toff Nguyen | toffiny | tnguyen56 | Yamo |
 | Kibeom Kim | carrotkr | kkim30 | Chipotle |
+| Enrique Bascur| Etbascur | Etbascur | Panchos |
+
 
