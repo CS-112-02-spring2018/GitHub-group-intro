@@ -23,4 +23,6 @@ Add yourself to the list below:
 | Kibeom Kim | carrotkr | kkim30 | Chipotle |
 | Enrique Bascur| Etbascur | Etbascur | Panchos |
 | Jordan Davis | jordand815 | jedavis6 | fifty-fifty | 
+| Christopher Chu | ChrisChu22 | cachu2 | New D & A Cafe |
+
 
