@@ -15,3 +15,4 @@ Add yourself to the list below:
 | Lin Xu | LinXu0317 | lxu33 | McDonald's |
 | Malik Owens | Bioshii | mowens5 | Papa John's |
 | Orshi Kozek | OrshiKozek | okozek | Cafe Europa |
+| Eric Chen	| Eric-W-Chen	|	echen10	|	Chipotle |
