@@ -12,6 +12,6 @@ Add yourself to the list below:
 | Arturo Galvan-Alarcon | Lelionbear | agalvanalarcon | Boudin Bakery & Cafe |
 | Cyrus Robins | cyrusrobins | crobins| La Taqueria
 | Yen Dah Hsiang | dustin0116 | yhsiang | Banana Island |
-| Lin Xu | LinXu0317 | lxu33 | AHHHHHHH |
+| Lin Xu | LinXu0317 | lxu33 | McDonald's |
 | Malik Owens | Bioshii | mowens5 | Papa John's |
 | Orshi Kozek | OrshiKozek | okozek | Cafe Europa |
