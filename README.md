@@ -8,6 +8,7 @@ Add yourself to the list below:
 | Lisa Leese | laleese | mlleese | Flour + Water |
 | Fil Alano | filalano | falano | House of Prime Rib | 
 | Isabel Ringo | isabelroseringo | irringo | 1428 Haight |
+| Robert Dolgonos | rdolgonos | rdolgonos | sushi bistro |
 | Safya Osman | safyao | sosman | A La Turca |
 | Arturo Galvan-Alarcon | Lelionbear | agalvanalarcon | Boudin Bakery & Cafe |
 | Cyrus Robins | cyrusrobins | crobins| La Taqueria
@@ -17,4 +18,5 @@ Add yourself to the list below:
 | Orshi Kozek | OrshiKozek | okozek | Cafe Europa |
 | Aditya Dixit | adityanz | adixit3 | MAC'D |
 | Anh Thao Nguyen | avnguyen6 | avnguyen6 | Spartan Taco |
+
 
