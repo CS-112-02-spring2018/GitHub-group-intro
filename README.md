@@ -9,3 +9,4 @@ Add yourself to the list below:
 | Fil Alano | filalano | falano | House of Prime Rib | 
 | Isabel Ringo | isabelroseringo | irringo | 1428 Haight |
 | Safya Osman | safyao | sosman | A La Turca |
+| Arturo Galvan-Alarcon | Lelionbear | agalvanalarcon | Boudin Bakery & Cafe |
