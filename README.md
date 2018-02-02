@@ -22,5 +22,5 @@ Add yourself to the list below:
 | Toff Nguyen | toffiny | tnguyen56 | Yamo |
 | Kibeom Kim | carrotkr | kkim30 | Chipotle |
 | Enrique Bascur| Etbascur | Etbascur | Panchos |
-
+| Jordan Davis | jordand815 | jedavis6 | fifty | 
 
