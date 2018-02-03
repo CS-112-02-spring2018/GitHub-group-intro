@@ -18,6 +18,9 @@ Add yourself to the list below:
 | Orshi Kozek | OrshiKozek | okozek | Cafe Europa |
 | Lauren Marone | lomarone | lomarone | Ben and Jerrys |
 | Aditya Dixit | adityanz | adixit3 | MAC'D |
+
+| Antonio Gutierrez| augutierrez | augutierrez | Santanecas |
+=======
 | Anh Thao Nguyen | avnguyen6 | avnguyen6 | Spartan Taco |
 | Toff Nguyen | toffiny | tnguyen56 | Yamo |
 | Kibeom Kim | carrotkr | kkim30 | Chipotle |
