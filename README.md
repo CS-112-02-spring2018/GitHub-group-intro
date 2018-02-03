@@ -20,6 +20,7 @@ Add yourself to the list below:
 | Aditya Dixit | adityanz | adixit3 | MAC'D |
 | Anh Thao Nguyen | avnguyen6 | avnguyen6 | Spartan Taco |
 | Toff Nguyen | toffiny | tnguyen56 | Yamo |
+| Derek Moy | dmoy2 | dmoy2 | Toma |
 | Kibeom Kim | carrotkr | kkim30 | Chipotle |
 | Enrique Bascur| Etbascur | Etbascur | Panchos |
 | Jordan Davis | jordand815 | jedavis6 | fifty-fifty | 
