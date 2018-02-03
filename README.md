@@ -4,10 +4,11 @@ Let's get our class repository going!
 Add yourself to the list below:
 
 | Name (First and Last Name) | GH username | USF account name | Favorite restaurant in SF |
-| --- | --- | --- | --- |
+| Julia Parakkal | jparakkal| jeparakkal| Italian Homemade Company |
 | Lisa Leese | laleese | mlleese | Flour + Water |
 | Fil Alano | filalano | falano | House of Prime Rib | 
 | Isabel Ringo | isabelroseringo | irringo | 1428 Haight |
+| Robert Dolgonos | rdolgonos | rdolgonos | sushi bistro |
 | Safya Osman | safyao | sosman | A La Turca |
 | Arturo Galvan-Alarcon | Lelionbear | agalvanalarcon | Boudin Bakery & Cafe |
 | Cyrus Robins | cyrusrobins | crobins| La Taqueria
@@ -15,6 +16,17 @@ Add yourself to the list below:
 | Lin Xu | LinXu0317 | lxu33 | McDonald's |
 | Malik Owens | Bioshii | mowens5 | Papa John's |
 | Orshi Kozek | OrshiKozek | okozek | Cafe Europa |
+| Lauren Marone | lomarone | lomarone | Ben and Jerrys |
 | Aditya Dixit | adityanz | adixit3 | MAC'D |
+
 | Antonio Gutierrez| augutierrez | augutierrez | Santanecas |
+=======
+| Anh Thao Nguyen | avnguyen6 | avnguyen6 | Spartan Taco |
+| Toff Nguyen | toffiny | tnguyen56 | Yamo |
+| Kibeom Kim | carrotkr | kkim30 | Chipotle |
+| Enrique Bascur| Etbascur | Etbascur | Panchos |
+| Jordan Davis | jordand815 | jedavis6 | fifty-fifty | 
+| Christopher Chu | ChrisChu22 | cachu2 | New D & A Cafe |
+| Eric Chen	| Eric-W-Chen	|	echen10	|	Chipotle |
+| Steven Wang | zwang156 | zwang156 | IPot |
 
