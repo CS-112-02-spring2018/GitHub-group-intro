@@ -25,4 +25,5 @@ Add yourself to the list below:
 | Jordan Davis | jordand815 | jedavis6 | fifty-fifty | 
 | Christopher Chu | ChrisChu22 | cachu2 | New D & A Cafe |
 | Eric Chen	| Eric-W-Chen	|	echen10	|	Chipotle |
+| Steven Wang | zwang156 | zwang156 | IPot |
 
