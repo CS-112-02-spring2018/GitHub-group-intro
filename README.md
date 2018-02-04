@@ -11,7 +11,7 @@ Add yourself to the list below:
 | Robert Dolgonos | rdolgonos | rdolgonos | sushi bistro |
 | Safya Osman | safyao | sosman | A La Turca |
 | Arturo Galvan-Alarcon | Lelionbear | agalvanalarcon | Boudin Bakery & Cafe |
-| Cyrus Robins | cyrusrobins | crobins| La Taqueria
+| Cyrus Robins | cyrusrobins | crobins| La Taqueria |
 | Yen Dah Hsiang | dustin0116 | yhsiang | Banana Island |
 | Lin Xu | LinXu0317 | lxu33 | McDonald's |
 | Malik Owens | Bioshii | mowens5 | Papa John's |
