@@ -18,9 +18,7 @@ Add yourself to the list below:
 | Orshi Kozek | OrshiKozek | okozek | Cafe Europa |
 | Lauren Marone | lomarone | lomarone | Ben and Jerrys |
 | Aditya Dixit | adityanz | adixit3 | MAC'D |
-
 | Antonio Gutierrez| augutierrez | augutierrez | Santanecas |
-=======
 | Anh Thao Nguyen | avnguyen6 | avnguyen6 | Spartan Taco |
 | Toff Nguyen | toffiny | tnguyen56 | Yamo |
 | Kibeom Kim | carrotkr | kkim30 | Chipotle |
@@ -28,5 +26,5 @@ Add yourself to the list below:
 | Jordan Davis | jordand815 | jedavis6 | fifty-fifty | 
 | Christopher Chu | ChrisChu22 | cachu2 | New D & A Cafe |
 | Eric Chen	| Eric-W-Chen	|	echen10	|	Chipotle |
+| Derek Moy | dmoy2 | dmoy2 | Toma | 
 | Steven Wang | zwang156 | zwang156 | IPot |
-
