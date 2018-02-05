@@ -28,4 +28,4 @@ Add yourself to the list below:
 | Eric Chen	| Eric-W-Chen	|	echen10	|	Chipotle |
 | Derek Moy | dmoy2 | dmoy2 | Toma | 
 | Steven Wang | zwang156 | zwang156 | IPot |
-| Jessica Phan | jessimicaphan | jhphan2 | Volcano Curry |
+| Jessica Phan | jessimicaphan | jhphan2 | Volcano Curry2 |
