@@ -30,4 +30,5 @@ Add yourself to the list below:
 | Steven Wang | zwang156 | zwang156 | IPot |
 | Jessica Phan | jessimicaphan | jhphan2 | Volcano Curry |
 | Alex Douthat | adouthat | adouthat | E Tutto Qua|
+| Tristan Ruiz | truiz14 | truiz3 | Super Pan |
 
