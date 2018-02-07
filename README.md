@@ -32,5 +32,5 @@ Add yourself to the list below:
 | Alex Douthat | adouthat | adouthat | E Tutto Qua|
 | Tristan Ruiz | truiz14 | truiz3 | Super Pan |
 | Blaine Koertje | blainekoertje | bkoertje | Foreign Cinema |
-
+| Ravi Patel | ravipat98 | rpatel13 | Tacko |
 
