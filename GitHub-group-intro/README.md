@@ -35,4 +35,4 @@ Add yourself to the list below:
 | Ravi Patel | ravipat98 | rpatel13 | Tacko |
 | Julia Parakkal | jparakkal | jeparakkal | Italian Homemade Company |
 | Terrance Warner | tdwarner | tdwarner | Homeroom |
-| Jia Gan | yigan11 | jgan5 | Jiang Nanea Bastro |
+| Jia Gan | yigan11 | jgan5 | Jiang Nane Bastro |
