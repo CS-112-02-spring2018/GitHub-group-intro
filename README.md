@@ -35,4 +35,3 @@ Add yourself to the list below:
 | Ravi Patel | ravipat98 | rpatel13 | Tacko |
 | Julia Parakkal | jparakkal | jeparakkal | Italian Homemade Company|
 | Terrance Warner | tdwarner | tdwarner | Homeroom
-
