@@ -11,7 +11,7 @@ Add yourself to the list below:
 | Robert Dolgonos | rdolgonos | rdolgonos | sushi bistro |
 | Safya Osman | safyao | sosman | A La Turca |
 | Arturo Galvan-Alarcon | Lelionbear | agalvanalarcon | Boudin Bakery & Cafe |
-| Cyrus Robins | cyrusrobins | crobins| La Taqueria |
+| Cyrus Robins | cyrusrobins | crobins| Volcano Curry |
 | Yen Dah Hsiang | dustin0116 | yhsiang | Banana Island |
 | Lin Xu | LinXu0317 | lxu33 | McDonald's |
 | Malik Owens | Bioshii | mowens5 | Papa John's |
@@ -29,5 +29,9 @@ Add yourself to the list below:
 | Derek Moy | dmoy2 | dmoy2 | Toma | 
 | Steven Wang | zwang156 | zwang156 | IPot |
 | Jessica Phan | jessimicaphan | jhphan2 | Volcano Curry |
+| Alex Douthat | adouthat | adouthat | E Tutto Qua|
+| Tristan Ruiz | truiz14 | truiz3 | Super Pan |
+| Blaine Koertje | blainekoertje | bkoertje | Foreign Cinema |
+| Ravi Patel | ravipat98 | rpatel13 | Tacko |
+| Julia Parakkal | jparakkal | jeparakkal | Italian Homemade Company|
 | Jia Gan | yigan11 | jgan5 | Jiang Nan Bastro|
-
