@@ -13,7 +13,7 @@ Add yourself to the list below:
 | Arturo Galvan-Alarcon | Lelionbear | agalvanalarcon | Boudin Bakery & Cafe |
 | Cyrus Robins | cyrusrobins | crobins| Volcano Curry |
 | Yen Dah Hsiang | dustin0116 | yhsiang | Banana Island |
-| Lin Xu | LinXu0317 | lxu33 | McDonald's |
+| Lin Xu | LinXu0317 | lxu33 | McDonald's lol |
 | Malik Owens | Bioshii | mowens5 | Papa John's |
 | Orshi Kozek | OrshiKozek | okozek | Cafe Europa |
 | Lauren Marone | lomarone | lomarone | Ben and Jerrys |
