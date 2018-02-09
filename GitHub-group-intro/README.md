@@ -13,7 +13,7 @@ Add yourself to the list below:
 | Arturo Galvan-Alarcon | Lelionbear | agalvanalarcon | Boudin Bakery & Cafe |
 | Cyrus Robins | cyrusrobins | crobins| Volcano Curry |
 | Yen Dah Hsiang | dustin0116 | yhsiang | Banana Island |
-| Lin Xu | LinXu0317 | lxu33 | McDonald's |
+| Lin Xu | LinXu0317 | lxu33 | McDonald's lol |
 | Malik Owens | Bioshii | mowens5 | Papa John's |
 | Orshi Kozek | OrshiKozek | okozek | Cafe Europa |
 | Lauren Marone | lomarone | lomarone | Ben and Jerrys |
@@ -33,6 +33,5 @@ Add yourself to the list below:
 | Tristan Ruiz | truiz14 | truiz3 | Super Pan |
 | Blaine Koertje | blainekoertje | bkoertje | Foreign Cinema |
 | Ravi Patel | ravipat98 | rpatel13 | Tacko |
-| Julia Parakkal | jparakkal | jeparakkal | Italian Homemade Company |
-| Terrance Warner | tdwarner | tdwarner | Homeroom |
-| Jia Gan | yigan11 | jgan5 | Jiang Nane Bastro |
+| Julia Parakkal | jparakkal | jeparakkal | Italian Homemade Company|
+| Terrance Warner | tdwarner | tdwarner | Homeroom
